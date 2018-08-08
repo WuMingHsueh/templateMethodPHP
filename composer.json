@@ -1,0 +1,16 @@
+{
+    "name": "ri3567/base-temple-php",
+    "description": "my person use php project base template for begin new php project",
+    "authors": [
+        {
+            "name": "Wu Ming-Hsueh",
+            "email": "ri3567@gmail.com"
+        }
+    ],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"BaseTemplatePHP\\" : "src/"
+		}
+	}
+}
