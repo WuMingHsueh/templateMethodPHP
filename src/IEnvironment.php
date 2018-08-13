@@ -1,10 +1,10 @@
 <?php
-namespace BaseTemplatePHP;
+namespace templateMethod;
 
 interface IEnvironment
 {
-    const PROJECT_NAME = "BaseTemplePHP";
-    const ROUTER_START = "/BaseTemplePHP/index.php";
-    const NAMESPACE_ROOT = "BaseTemplatePHP";
+    const PROJECT_NAME = "templateMethod";
+    const ROUTER_START = "/templateMethod/index.php";
+    const NAMESPACE_ROOT = "TemplateMethodPHP";
     // const CONNECTION_NAME = ["default", "sqlserver_dverental"];
 }

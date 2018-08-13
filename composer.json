@@ -1,6 +1,6 @@
 {
-    "name": "ri3567/base-temple-php",
-    "description": "my person use php project base template for begin new php project",
+    "name": "ri3567/template-method-php",
+    "description": "design pattern of template Method practice",
     "authors": [
         {
             "name": "Wu Ming-Hsueh",
@@ -10,7 +10,7 @@
 	"require": {},
 	"autoload": {
 		"psr-4": {
-			"BaseTemplatePHP\\" : "src/"
+			"TemplateMethodPHP\\" : "src/"
 		}
 	}
 }
