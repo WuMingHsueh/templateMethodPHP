@@ -1,5 +1,5 @@
 <?php
-namespace templateMethod;
+namespace TemplateMethodPHP;
 
 interface IEnvironment
 {
